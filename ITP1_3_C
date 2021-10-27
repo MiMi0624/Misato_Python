@@ -4,4 +4,4 @@ while True:
         break
     if x > y:
         x, y = y, x
-    print("%d %d" %(x,y))
+    print("%d %d" % (x,y))
