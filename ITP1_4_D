@@ -6,3 +6,4 @@ vmax = max(data)
 vsum = sum(data)  
 
 print(vmin, vmax, vsum)
+ 
